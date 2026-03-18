@@ -11,19 +11,19 @@ export default function Footer() {
                             <h3 className="text-xl font-bold text-gray-900">Resolute Validator</h3>
                         </div>
                         <p className="text-gray-600 max-w-sm text-sm leading-relaxed mb-6">
-                            High-performance account validation for modern financial workflows. 
+                            High-performance account validation for modern financial workflows.
                             Built for speed, accuracy, and reliability.
                         </p>
                         <div className="flex gap-4">
-                            <a href="#" className="text-gray-400 hover:text-blue-600 transition-colors">
+                            <a href="https://www.linkedin.com/in/success-chu/" className="text-gray-400 hover:text-blue-600 transition-colors">
                                 <Linkedin className="h-5 w-5" />
                             </a>
-                            <a href="#" className="text-gray-400 hover:text-blue-600 transition-colors">
+                            <a href="https://github.com/successdanesy/resolutevalidator.git" className="text-gray-400 hover:text-blue-600 transition-colors">
                                 <Github className="h-5 w-5" />
                             </a>
                         </div>
                     </div>
-                    
+
                     <div>
                         <h4 className="text-sm font-semibold text-gray-900 uppercase tracking-wider mb-4">Product</h4>
                         <ul className="space-y-3">
@@ -46,10 +46,10 @@ export default function Footer() {
                             </li>
                             <li className="flex items-center gap-2 text-sm text-gray-600 pt-2">
                                 <Globe className="h-4 w-4" />
-                                <a 
-                                    href="https://successdanesy.vercel.app" 
-                                    target="_blank" 
-                                    rel="noopener noreferrer" 
+                                <a
+                                    href="https://successdanesy.vercel.app"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
                                     className="hover:text-blue-600 transition-colors font-medium"
                                 >
                                     Built by &lt;SuccessDanesy/&gt;
@@ -58,7 +58,7 @@ export default function Footer() {
                         </ul>
                     </div>
                 </div>
-                
+
                 <div className="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
                     <p className="text-xs text-gray-500">
                         © {new Date().getFullYear()} Success Chukwuemeka. All rights reserved.
