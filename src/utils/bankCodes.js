@@ -3,6 +3,7 @@ const BANK_CODES = [
   // COMMERCIAL BANKS
   // =========================
   { code: "044", name: "ACCESS BANK", category: "Commercial" },
+  { code: "304", name: "THE ALTERNATIVE BANK", category: "Commercial" },
   { code: "023", name: "CITIBANK NIGERIA", category: "Commercial" },
   { code: "050", name: "ECOBANK NIGERIA", category: "Commercial" },
   { code: "084", name: "ENTERPRISE BANK", category: "Commercial" },
